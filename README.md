@@ -7,13 +7,13 @@ Hi, i'm Maxime, a freelance developer since **2016** and i study computer scienc
 ```javascript
 const profil = {
 	pronouns: "He" | "Him",
-	code: ["Javascript", "Python", "Java", "PHP", "C#","C++","C"],
-	askMeAbout: ["Desktop Software", "Website", "WebApp", "Automation Scripts"],
+	code: ["Javascript", "Dart/Flutter", "HTML", "CSS", "Python", "Java", "PHP", "C#", "C++", "C"],
+	askMeAbout: ["Desktop Software", "Mobil app", "Website", "WebApp", "Automation Scripts"],
 	technologies: {
 		backEnd: {
 			python: ["django", "flask"],
 			php: ["laravel", "symphony"],
-			c#: ["ASP.net", "Blazor"],
+			c#: ["ASP.net", "MAUI", "Winform", "Blazor"],
 			javaScript : ["Node.js"]
 		},
 		CMS: {

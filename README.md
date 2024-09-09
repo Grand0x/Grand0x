@@ -1,7 +1,7 @@
 
 ## Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-Hi, i'm Maxime, a freelance developer since **2016** and i study computer science in INSA HDF engineering school. I started programming by **myselft** in my bedroom and my passion for programming began when I realized that the possibilities were **endless**! My code **quality** and the success of a project are my **priorities**.
+Hi, i'm Maxime, a freelance developer since **2016** and i study computer science in INSA HDF engineering school. I started programming by **myself** in my bedroom and my passion for programming began when I realized that the possibilities were **endless**! My code **quality** and the success of a project are my **priorities**.
 
 ## Skills <img src="https://media.giphy.com/media/j2MHloPxDewtuIigvT/giphy.gif" width="25px">
 ```javascript
